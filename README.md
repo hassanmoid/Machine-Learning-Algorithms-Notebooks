@@ -1,4 +1,4 @@
-# codes
-This repository contains codes of Pyspark and Python
+# ML Algorithms with Python
+This repository contains implementation of various Machine Learning Algorithm in Python and Pyspark. Feel free to fork.
 
-I am adding some of my work in Python and Pyspark
+I will also keep on adding the solution of different Kaggle competition.
